@@ -1,3 +1,5 @@
 war/WEB-INF/classes/
-war/gwt-gxt-mavenarc/
+war/deploy/symbolMaps/
+war/dynatable/
 target/
+gwt-unitCache/
