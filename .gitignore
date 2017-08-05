@@ -1,6 +1,6 @@
 war/WEB-INF/classes/
-war/deploy/symbolMaps/
+war/deploy/
 war/dynatable/
+war/WEB-INF/deploy/
 target/
 gwt-unitCache/
-/nbproject/
